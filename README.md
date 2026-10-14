@@ -52,3 +52,7 @@ Source: [kortix.yaml reference](https://kortix.com/docs/project/manifest).
 Open source. Read it, fork it, audit it.
 
 Open source · Any model, your keys · Self-host, VPC, or on-prem
+
+## The move, page by page
+
+The full move lives on [manus-alternative.com](https://manus-alternative.com): start with [how to migrate off Manus](https://manus-alternative.com/migrate-from-manus), then [Is Manus AI safe](https://manus-alternative.com/is-manus-ai-safe) and [Is Manus open source](https://manus-alternative.com/is-manus-open-source).
