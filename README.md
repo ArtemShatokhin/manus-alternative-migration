@@ -56,3 +56,6 @@ Open source · Any model, your keys · Self-host, VPC, or on-prem
 ## The move, page by page
 
 The full move lives on [manus-alternative.com](https://manus-alternative.com): start with [how to migrate off Manus](https://manus-alternative.com/migrate-from-manus), then [Is Manus AI safe](https://manus-alternative.com/is-manus-ai-safe) and [Is Manus open source](https://manus-alternative.com/is-manus-open-source).
+
+
+Newer comparisons on the same site: [Manus vs OpenManus](https://manus-alternative.com/manus-vs-openmanus), [Manus vs AutoGPT](https://manus-alternative.com/manus-vs-autogpt), [Manus alternatives for developers](https://manus-alternative.com/manus-alternatives-for-developers), and [Is Manus AI worth it](https://manus-alternative.com/is-manus-ai-worth-it).
